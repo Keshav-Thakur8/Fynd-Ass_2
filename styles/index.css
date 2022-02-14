@@ -148,14 +148,6 @@ header .navbar ul li a{
 	position: relative;
 }
 
-.about-me .section-title p.small{
-	display: block;
-	font-size: 14px;
-	color: #838383;
-	font-weight: 400;
-	letter-spacing: 2px;
-}
-
 .about-me .about-content .img{
 	flex: 0 0 33.33%;
 	max-width: 33.33%;
